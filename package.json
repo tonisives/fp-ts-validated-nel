@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "validated-nel",
+  "devDependencies": {
+    "@types/node": "^20.11.16",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "dependencies": {
+    "fp-ts": "^2.16.2",
+    "jst-logger": "tonisives/js-logger#642ac8b0db52a8b2de35f4d4aa6f35486fd70d50"
+  }
+}
