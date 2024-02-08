@@ -38,4 +38,5 @@ let validateInput = (input: Input): E.Either<Error, Input> => {
 
 ## run
 
+`yarn`
 `tsx ./src/app.run.ts`
